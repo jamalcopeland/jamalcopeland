@@ -1,6 +1,11 @@
 <h1>Hi, I'm Jamal, an <a href="https://www.linkedin.com/in/jamalcopeland/">IT Professional</a></h1>
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+<h2> 🚨 Threat Hunting Projects:</h2>
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jamalcopeland/threat-hunting-scenarios)**
+<br><br>
+
 <h2> ⚠️ Vulnerability Management Projects:</h2>
 
 - **[Vulnerability Management Program Implementation](https://github.com/jamalcopeland/vulnerability-management-program)**

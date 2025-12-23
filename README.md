@@ -4,14 +4,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <h2> 🚨 Threat Hunting Projects:</h2>
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jamalcopeland/threat-hunting-scenarios)**
+- **[Threat Hunting Scenario (Assistance)](https://github.com/jamalcopeland/threat-hunting-scenario-assistance)**
 <br><br>
-<!---
+
 <h2> ⚠️ Vulnerability Management Projects:</h2>
 
-- **[Vulnerability Management Program Implementation](https://github.com/jamalcopeland/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jamalcopeland/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jamalcopeland/Win10-STIG-Remediation)**
 <br><br>
---->
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>

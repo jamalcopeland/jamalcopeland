@@ -12,6 +12,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jamalcopeland/Win10-STIG-Remediation)**
 <br><br>
 
+<h2> 📧 Programming Projects: </h2>
+  
+- **[Phishing Email Classification (Machine Learning)](https://github.com/jamalcopeland/phishing)**
+ <br><br>
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
